@@ -1,0 +1,15 @@
+/home/hpoe/PersonalProjects/RiskGamePlayer/RiskAnalyzerFunction/test/RiskAnalyzerFunction.Tests/obj/Debug/netcoreapp1.0/RiskAnalyzerFunction.Tests.csproj.CoreCompileInputs.cache
+/home/hpoe/PersonalProjects/RiskGamePlayer/RiskAnalyzerFunction/test/RiskAnalyzerFunction.Tests/obj/Debug/netcoreapp1.0/RiskAnalyzerFunction.Tests.AssemblyInfoInputs.cache
+/home/hpoe/PersonalProjects/RiskGamePlayer/RiskAnalyzerFunction/test/RiskAnalyzerFunction.Tests/obj/Debug/netcoreapp1.0/RiskAnalyzerFunction.Tests.AssemblyInfo.cs
+/home/hpoe/PersonalProjects/RiskGamePlayer/RiskAnalyzerFunction/test/RiskAnalyzerFunction.Tests/bin/Debug/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/hpoe/PersonalProjects/RiskGamePlayer/RiskAnalyzerFunction/test/RiskAnalyzerFunction.Tests/bin/Debug/netcoreapp1.0/xunit.runner.utility.netstandard15.dll
+/home/hpoe/PersonalProjects/RiskGamePlayer/RiskAnalyzerFunction/test/RiskAnalyzerFunction.Tests/bin/Debug/netcoreapp1.0/xunit.runner.reporters.netstandard15.dll
+/home/hpoe/PersonalProjects/RiskGamePlayer/RiskAnalyzerFunction/test/RiskAnalyzerFunction.Tests/bin/Debug/netcoreapp1.0/RiskAnalyzerFunction.Tests.deps.json
+/home/hpoe/PersonalProjects/RiskGamePlayer/RiskAnalyzerFunction/test/RiskAnalyzerFunction.Tests/bin/Debug/netcoreapp1.0/RiskAnalyzerFunction.Tests.runtimeconfig.json
+/home/hpoe/PersonalProjects/RiskGamePlayer/RiskAnalyzerFunction/test/RiskAnalyzerFunction.Tests/bin/Debug/netcoreapp1.0/RiskAnalyzerFunction.Tests.runtimeconfig.dev.json
+/home/hpoe/PersonalProjects/RiskGamePlayer/RiskAnalyzerFunction/test/RiskAnalyzerFunction.Tests/bin/Debug/netcoreapp1.0/RiskAnalyzerFunction.Tests.dll
+/home/hpoe/PersonalProjects/RiskGamePlayer/RiskAnalyzerFunction/test/RiskAnalyzerFunction.Tests/bin/Debug/netcoreapp1.0/RiskAnalyzerFunction.Tests.pdb
+/home/hpoe/PersonalProjects/RiskGamePlayer/RiskAnalyzerFunction/test/RiskAnalyzerFunction.Tests/bin/Debug/netcoreapp1.0/RiskAnalyzerFunction.dll
+/home/hpoe/PersonalProjects/RiskGamePlayer/RiskAnalyzerFunction/test/RiskAnalyzerFunction.Tests/bin/Debug/netcoreapp1.0/RiskAnalyzerFunction.pdb
+/home/hpoe/PersonalProjects/RiskGamePlayer/RiskAnalyzerFunction/test/RiskAnalyzerFunction.Tests/obj/Debug/netcoreapp1.0/RiskAnalyzerFunction.Tests.dll
+/home/hpoe/PersonalProjects/RiskGamePlayer/RiskAnalyzerFunction/test/RiskAnalyzerFunction.Tests/obj/Debug/netcoreapp1.0/RiskAnalyzerFunction.Tests.pdb

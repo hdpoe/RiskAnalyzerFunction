@@ -19,7 +19,7 @@ namespace RiskAnalyzerFunction {
       while(attackingArmies > 0 && defendingArmies > 0) {
         int[] defendingRoll =  rollDice(Math.Min(2, defendingArmies));
         int[] attackingRoll =  rollDice(Math.Min(3, attackingArmies));
-        for(int i = 0; defendingRoll[i] != 0; i++) {
+        for(int i = 0; i < Math.Min(defendingRoll.Length, attackingRoll.Length); i++) {
           if(defendingRoll[i] < attackingRoll[i]) {
             defendingArmies--;
           } else {
@@ -42,6 +42,9 @@ namespace RiskAnalyzerFunction {
       for(int i = 0; i <numberOfDice; i++) {
         result[i] = die.Next(1,7);
       }
+      Array.Sort(result);
+      Array.Reverse(result);
+
       return result;
     }
   }
