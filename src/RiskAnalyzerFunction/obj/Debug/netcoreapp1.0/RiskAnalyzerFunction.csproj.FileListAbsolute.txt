@@ -1,0 +1,8 @@
+/home/hpoe/PersonalProjects/RiskGamePlayer/RiskAnalyzerFunction/src/RiskAnalyzerFunction/obj/Debug/netcoreapp1.0/RiskAnalyzerFunction.csproj.CoreCompileInputs.cache
+/home/hpoe/PersonalProjects/RiskGamePlayer/RiskAnalyzerFunction/src/RiskAnalyzerFunction/obj/Debug/netcoreapp1.0/RiskAnalyzerFunction.AssemblyInfoInputs.cache
+/home/hpoe/PersonalProjects/RiskGamePlayer/RiskAnalyzerFunction/src/RiskAnalyzerFunction/obj/Debug/netcoreapp1.0/RiskAnalyzerFunction.AssemblyInfo.cs
+/home/hpoe/PersonalProjects/RiskGamePlayer/RiskAnalyzerFunction/src/RiskAnalyzerFunction/bin/Debug/netcoreapp1.0/RiskAnalyzerFunction.deps.json
+/home/hpoe/PersonalProjects/RiskGamePlayer/RiskAnalyzerFunction/src/RiskAnalyzerFunction/bin/Debug/netcoreapp1.0/RiskAnalyzerFunction.dll
+/home/hpoe/PersonalProjects/RiskGamePlayer/RiskAnalyzerFunction/src/RiskAnalyzerFunction/bin/Debug/netcoreapp1.0/RiskAnalyzerFunction.pdb
+/home/hpoe/PersonalProjects/RiskGamePlayer/RiskAnalyzerFunction/src/RiskAnalyzerFunction/obj/Debug/netcoreapp1.0/RiskAnalyzerFunction.dll
+/home/hpoe/PersonalProjects/RiskGamePlayer/RiskAnalyzerFunction/src/RiskAnalyzerFunction/obj/Debug/netcoreapp1.0/RiskAnalyzerFunction.pdb
