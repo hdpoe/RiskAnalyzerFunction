@@ -1,10 +1,10 @@
-namespace  RiskAnalyzerFunction {
+namespace RiskAnalyzerFunction {
 
   public class Result {
-    private int attackersLeft { get; set; }
-    private int defendersLeft { get; set; }
-    private bool defenderWon { get; set; }
-    private bool attackerWon { get; set; }
+    public int attackersLeft { get; set; }
+    public int defendersLeft { get; set; }
+    public bool defenderWon { get; set; }
+    public bool attackerWon { get; set; }
 
     public Result(int attackers, int defenders, string winner) {
       this.attackersLeft = attackers;
